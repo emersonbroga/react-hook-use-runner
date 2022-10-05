@@ -13,6 +13,12 @@ const [
 ] = useRunner()
 ```
 
+# Installation
+
+```
+npm i react-hook-use-runner
+```
+
 # Usage
 
 ### How to use it for a async function?
